@@ -10,4 +10,4 @@ The js Concepts which i have used in this are
 1. npm - readline-sync
 1. npm - chalk
 
-## Major help for this project was provided by neogcamp lesson 0 video By (Tanay Pratap sir)
+## Major help for this project was provided by neogcamp lesson 1 video By (Tanay Pratap sir)
